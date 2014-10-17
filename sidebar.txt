@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wpc:home|Door43 (wpc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wpc|d43-wpc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wpc/archive/master.zip|d43-wpc.zip]]
+
+**Recent Changes**
+{{changes>ns = wpc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wpc|Ethnologue data]]
+
